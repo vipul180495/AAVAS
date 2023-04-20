@@ -1,0 +1,57 @@
+.auth-form-container form {
+    display: flex;
+    
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .auth-form-container div {
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .auth-form-container label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  .auth-form-container input[type="text"], input[type="date"], input[type="time"] {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    font-size: 16px;
+  }
+  
+  .auth-form-container input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  /* textarea {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    height: 100px;
+    font-size: 16px;
+  } */
+  
+  /* .auth-form-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  } */
+  
+  /* .auth-form-container button:hover {
+    background-color: #0056b3;
+  } */
+  
+  

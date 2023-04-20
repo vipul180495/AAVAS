@@ -1,0 +1,29 @@
+.review-viewing {
+    background-color: rgba(215, 209, 209, 0.8);
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .review-viewing h2 {
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .review-viewing table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .review-viewing th,
+  .review-viewing td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  
+  .review-viewing th {
+    background-color: #f2f2f2;
+  }
+  
