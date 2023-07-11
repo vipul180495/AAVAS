@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+import './ReviewViewing.css';
 export const AdminDashboard = () => {
   const [branchData, setBranchData] = useState([]);
 
@@ -17,7 +17,7 @@ export const AdminDashboard = () => {
   }, []);
 
   return (
-    <div>
+    <div className='review-viewing'>
       <h2>Admin Dashboard</h2>
       <table>
         <thead>

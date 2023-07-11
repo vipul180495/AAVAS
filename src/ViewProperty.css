@@ -48,7 +48,7 @@ tr:hover {
   }
   
   th {
-    background-color: #f2f2f2;
+    background-color: #0d0c0c;
     font-weight: bold;
   }
   
@@ -67,6 +67,10 @@ tr:hover {
     margin-bottom: 20px;
   }
   
+  .property-list{
+    color: #0b0b0b;
+  }
+
   .property-images img {
     width: 200px;
     height: 200px;
@@ -75,5 +79,4 @@ tr:hover {
     margin-bottom: 10px;
     cursor: pointer;
   }
-  
   

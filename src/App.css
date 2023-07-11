@@ -9,6 +9,7 @@
   background-size: cover;
   animation: slide 2min linear infinite;
   -webkit-animation: slide 2min linear infinite;
+  
 }
 
 .auth-form-container,
