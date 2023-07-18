@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AAVAS/static/css/main.768b0125.css",
+    "main.js": "/AAVAS/static/js/main.0e43e3be.js",
+    "static/js/787.3350fc02.chunk.js": "/AAVAS/static/js/787.3350fc02.chunk.js",
+    "static/media/video.mp4": "/AAVAS/static/media/video.4bc49d9feeaf859df60b.mp4",
+    "static/media/home_1.jpg": "/AAVAS/static/media/home_1.e66536e8af2c31cf8d02.jpg",
+    "index.html": "/AAVAS/index.html",
+    "main.768b0125.css.map": "/AAVAS/static/css/main.768b0125.css.map",
+    "main.0e43e3be.js.map": "/AAVAS/static/js/main.0e43e3be.js.map",
+    "787.3350fc02.chunk.js.map": "/AAVAS/static/js/787.3350fc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768b0125.css",
+    "static/js/main.0e43e3be.js"
+  ]
+}
